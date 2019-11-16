@@ -1,2 +1,3 @@
 # hello-world-
 This is the generic test that Github has assigned me to perform in order to understand how all this works. 
+I am writing a bit about myself because step 3 has asked that I do. I am trying to learn more about this computer business because it is challenging, but at least you know when you've done it properly. I feel very satisfied when I am struggling with something and then get it sorted out. When I am struggling with something and never get concrete results/answers/closure, it is discouraging. Coding seems to let you know if you've done something properly, and done something useful as well. We'll see.
